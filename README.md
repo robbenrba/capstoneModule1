@@ -1,7 +1,7 @@
 # capstoneModule1
 Capstone Project Module 1, JCDSOL-013(B), Roberto Benedict
 
-<b>Deskripsi<b/> <br/>
+<b>Deskripsi</b> <br/>
 Kode python ini merupakan aplikasi CRUD sederhana dengan beberapa fitur tambahan. 
 Aplikasi ini bertujuan untuk memudahkan user dalam meminjam dan mengembalikan buku pada suatu perpustakaan atau peminjaman buku.
 
