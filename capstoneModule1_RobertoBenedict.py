@@ -508,8 +508,8 @@ def featureReturn():
         while True: # Loop pengembalian buku dan penyesuaian jumlah buku
             inputJmlRent = int(input(f"Silahkan masukkan jumlah buku ID {dataBuku[indexRent]['ID']} yang ingin dikembalikan: "))
             if inputJmlRent <= dataBuku[indexRent]['stockAvailable']:
-                dataBuku[indexRent]['stockAvailable'] = dataBuku[indexRent]['stockAvailable'] + inputJmlRent # kurangi stockAvailable
-                dataBuku[indexRent]['stockRented'] = dataBuku[indexRent]['stockRented'] - inputJmlRent       # tambah stockRented
+                dataBuku[indexRent]['stockAvailable'] = dataBuku[indexRent]['stockAvailable'] + inputJmlRent # tambah stockAvailable
+                dataBuku[indexRent]['stockRented'] = dataBuku[indexRent]['stockRented'] - inputJmlRent       # kurangi stockRented
                 break
             else:
                 print('stock tidak memenuhi silahkan masukkan kembali jumlah bukunya')
