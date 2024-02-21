@@ -8,13 +8,13 @@ Aplikasi ini bertujuan untuk memudahkan user dalam meminjam dan mengembalikan bu
 <br/>
 Berikut uraian fitur secara singkat.
 <br/>
-Feature 1 - Read : read data di list of dictionaries dataBuku
+Feature 1 - Read : read data di collection data type sebagai container data
 <br/>
-Feature 2 - Create : menambah entri di dataBuku
+Feature 2 - Create : menambah entri
 <br/>
-Feature 3 - Delete : menghapus entri di dataBuku
+Feature 3 - Delete : menghapus entri
 <br/>
-Feature 4 - Update : edit data di dataBuku
+Feature 4 - Update : edit data
 <br/>
 Feature 5 - Feature Pencarian, Sort, dan Filter
 <br/>
